@@ -1,0 +1,8 @@
+ID   CB9B5F1A-6A51-4160-9B55-2B19DCBD2F30   +79154278267  ?????
+sawa C64B2D7A-2DDF-4F73-A7D7-51585F691714
+
+web  - uid=sa pwd=Mayday129 
+
+Data - c:\Program Files\Microsoft SQL Server\MSSQL11.SQLEXPRESS\MSSQL\DATA\
+log  - c:\Program Files\Microsoft SQL Server\MSSQL11.SQLEXPRESS\MSSQL\DATA\
+Backup - c:\Program Files\Microsoft SQL Server\MSSQL11.SQLEXPRESS\MSSQL\Backup
